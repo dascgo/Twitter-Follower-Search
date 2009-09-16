@@ -1,0 +1,5 @@
+A simple tool for running queries against your Twitter followers.
+
+Run from a command line: ruby followers.rb
+
+Video Demo: http://vimeo.com/6600776
